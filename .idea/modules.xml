@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Excercise_26.iml" filepath="$PROJECT_DIR$/Excercise_26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-SmartCity.iml" filepath="$PROJECT_DIR$/Java-OOP-SmartCity.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module1_SmartCity/Module1_SmartCity.iml" filepath="$PROJECT_DIR$/Module1_SmartCity/Module1_SmartCity.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module2_SmartCity/Module2_SmartCity.iml" filepath="$PROJECT_DIR$/Module2_SmartCity/Module2_SmartCity.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module3_SmartCity/Module3_SmartCity.iml" filepath="$PROJECT_DIR$/Module3_SmartCity/Module3_SmartCity.iml" />
