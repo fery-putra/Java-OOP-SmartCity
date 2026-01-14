@@ -278,13 +278,11 @@ Each module adds new capabilities:
    - Read the explanation document
    - Study the code with comments
    - Run the program
-   - Complete the practice exercises
    - Modify the code to experiment
 
 2. **Progress through modules sequentially**
    - Each module builds on previous concepts
    - Don't skip modules
-   - Practice exercises reinforce learning
 
 3. **Experiment and Extend**
    - Add new building types
